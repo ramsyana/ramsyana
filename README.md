@@ -17,11 +17,23 @@ A learning-focused, high-performance tensor computation library built from scrat
 A minimalist terminal text editor for IoT devices, built in Zig for Unix-like systems.  
 [Source](https://github.com/ramsyana/Enkel-Editor)
 
-#### Academic Implementations
+### Academic Implementations
+A collection of algorithms and concepts from various academic papers implemented in multiple languages.
 
-- **[lorenz-chaos-encrypt](https://github.com/ramsyana/lorenz-chaos-encrypt):** Implementation of "Plain Convolution Encryption" as an alternative to synchronization-based methods.
-- **[commit-reveal](https://github.com/ramsyana/commit-reveal):** An implementation of the "Commit-Reveal²" protocol to mitigate last-revealer attacks in distributed consensus.
-- **[Math-Papers-with-Code](https://github.com/ramsyana/Math-Papers-with-Code):** A collection of algorithms from academic papers implemented in multiple languages.
-- **[Zig-Math-Algorithms](https://github.com/ramsyana/Zig-Math-Algorithms):** A collection of mathematical algorithms with CLI interfaces, implemented in Zig.
+| Paper Title | Author(s) | arXiv | Implementations | Status |
+|:------------|:----------|:-------|:----------------|:--------|
+| Relative Sizes of Iterated Sumsets | Noah Kravitz | [2412.18598](https://arxiv.org/pdf/2412.18598) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ✅ Complete |
+| A Remark on an Explicit Formula for the Sums of Powers of Integers | José L. Cereceda | [2503.14508v2](https://arxiv.org/pdf/2503.14508v2) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ✅ Complete |
+| The Neveu-Schwarz Group and Schwarz's Extended Super Mumford Form | Katherine A. Maxwell & Alexander A. Voronov | [2412.18585](https://arxiv.org/pdf/2412.18585) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ⏸️ On Hold |
+| Derivative Polynomials and Infinite Series for Squigonometric Functions | Bart S. Van Lith | [2503.19624](https://arxiv.org/abs/2503.19624) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ✅ Complete |
+| Inverse Source Problems for a Multidimensional Time-Fractional Wave Equation | D.K. Durdiev | [2503.17404v1](https://arxiv.org/abs/2503.17404v1) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ✅ Complete |
+
+*...and more in the [full repository](https://github.com/ramsyana/Math-Papers-with-Code).*
+
+
+- [lorenz-chaos-encrypt](https://github.com/ramsyana/lorenz-chaos-encrypt) - Implementation of "Plain Convolution Encryption".
+- [commit-reveal](https://github.com/ramsyana/commit-reveal) - An implementation of the "Commit-Reveal²" protocol.
+- [Zig-Math-Algorithms](https://github.com/ramsyana/Zig-Math-Algorithms) - A collection of mathematical algorithms implemented in Zig.
+
 
 *Opinions are my own.*
