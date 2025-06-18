@@ -9,13 +9,9 @@ Systems and Machine Learning Engineer who builds efficient, reliable code from a
 
 ### Selected Projects
 
-#### RustTensor
+### RustTensor
 A learning-focused, high-performance tensor computation library built from scratch in Rust, featuring automatic differentiation and CPU/CUDA backends.  
 [Source](https://github.com/ramsyana/RustTensor) | [Documentation](https://deepwiki.com/ramsyana/RustTensor)
-
-#### Enkel-Editor
-A minimalist terminal text editor for IoT devices, built in Zig for Unix-like systems.  
-[Source](https://github.com/ramsyana/Enkel-Editor)
 
 ### Academic Implementations
 A collection of algorithms and concepts from various academic papers implemented in multiple languages.
@@ -34,6 +30,11 @@ A collection of algorithms and concepts from various academic papers implemented
 - [lorenz-chaos-encrypt](https://github.com/ramsyana/lorenz-chaos-encrypt) - Implementation of "Plain Convolution Encryption".
 - [commit-reveal](https://github.com/ramsyana/commit-reveal) - An implementation of the "Commit-Reveal²" protocol.
 - [Zig-Math-Algorithms](https://github.com/ramsyana/Zig-Math-Algorithms) - A collection of mathematical algorithms implemented in Zig.
+
+### Enkel-Editor
+A minimalist terminal text editor for IoT devices, built in Zig for Unix-like systems.  
+[Source](https://github.com/ramsyana/Enkel-Editor)
+
 
 
 *Opinions are my own.*
