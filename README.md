@@ -10,7 +10,7 @@ Systems and Machine Learning Engineer with expertise in translating academic pap
 ### Selected Projects
 
 #### RustTensor
-A high-performance tensor computation library in Rust with automatic differentiation and CPU/CUDA support.  
+A learning-focused, high-performance tensor computation library built from scratch in Rust, featuring automatic differentiation and CPU/CUDA backends.  
 [Source](https://github.com/ramsyana/RustTensor) | [Documentation](https://deepwiki.com/ramsyana/RustTensor)
 
 #### Enkel-Editor
