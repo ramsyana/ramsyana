@@ -1,6 +1,6 @@
 ### Ramsyana 👋
 
-Systems and Machine Learning Engineer with expertise in translating academic papers into efficient, reliable code. My experience as an ex-QA engineer drives my commitment to building robust, secure software.
+Systems and Machine Learning Engineer who builds efficient, reliable code from academic papers. My experience as an ex-QA engineer drives my commitment to building robust, secure software.
 
 - **Skills:** Machine Learning, Systems Programming, Software Correctness
 - **Technologies:** Rust, Go, Python, Swift, JAX, C, Zig
