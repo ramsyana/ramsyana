@@ -2,7 +2,7 @@
 
 Systems and Machine Learning Engineer who builds efficient and reliable code. My experience as an ex-QA engineer drives my commitment to building robust, secure software. Open to collaboration on startups or projects, particularly for debugging and optimization. 
 
-- **Skills:** Machine Learning, Systems Programming, Software Correctness
+- **Skills:** Machine Learning, Systems Programming
 - **Technologies:** Rust, Go, Python, Swift, JAX, C, Zig
 - **Contact:** Reach me at `ramsyana@mac.com`.
 
