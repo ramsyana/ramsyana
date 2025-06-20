@@ -1,6 +1,6 @@
 ### Ramsyana 👋
 
-Systems and Machine Learning Engineer who builds efficient and reliable code. My experience as an ex-QA engineer drives my commitment to building robust, secure software. Open to collaboration on startups or projects, particularly for debugging and optimization. 
+Systems & ML Engineer crafting clean, efficient, and secure code. Former QA engineer passionate about robust software. Excited to collaborate on startups, debugging, or optimization projects.
 
 - **Skills:** Machine Learning, Systems Programming
 - **Technologies:** Rust, Go, Python, Swift, JAX, C, Zig
