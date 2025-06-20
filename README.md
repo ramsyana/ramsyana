@@ -3,7 +3,7 @@
 Systems & ML Engineer crafting clean, efficient, and secure code. Former QA engineer passionate about robust software. Excited to collaborate on startups, debugging, or optimization projects.
 
 - **Skills:** Machine Learning, Systems Programming
-- **Technologies:** Rust, Go, Python, Swift, JAX, C, Zig
+- **Technologies:** Rust, C, Go, Python, Swift, JAX, Zig
 - **Contact:** Reach me at `ramsyana@mac.com`.
 
 
