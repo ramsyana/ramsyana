@@ -1,6 +1,6 @@
 ### Ramsyana 👋
 
-Systems & ML Engineer crafting clean, efficient, and secure code. Former QA engineer passionate about robust software. Excited to collaborate on startups, debugging, or optimization projects.
+Systems & ML Engineer crafting clean, efficient, and secure code. Former QA engineer passionate about robust software. Excited to collaborate on startups, debugging, or optimization projects. Opinions on GitHub are my own. Not linked to any professional affiliation.
 
 - **Skills:** Machine Learning, Systems Programming
 - **Technologies:** Rust, C, Go, Python, Swift, JAX, Zig
@@ -39,4 +39,3 @@ A minimalist terminal text editor for IoT devices, built in Zig for Unix-like sy
 
 
 
-*Opinions are my own.*
