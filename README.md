@@ -1,6 +1,6 @@
 ### Ramsyana 👋
 
-Systems & ML Engineer crafting clean, efficient, and secure code. Former QA engineer passionate about robust software. Excited to collaborate on startups, debugging, or optimization projects. Opinions on GitHub are my own. Not linked to any professional affiliation.
+Retired Systems & ML Engineer passionate about mentoring young developers and machine learning enthusiasts. I enjoy sharing insights from my experience in crafting clean, efficient, and secure code. Open to guiding new talent in open-source projects or learning journeys. My opinions here are my own.
 
 - **Skills:** Machine Learning, Systems Programming
 - **Technologies:** Rust, C, Go, Python, Swift, JAX, Zig
