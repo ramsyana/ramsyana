@@ -1,13 +1,12 @@
 ### Ramsyana 👋
 
-Retired Systems & ML Engineer passionate about mentoring young developers and machine learning enthusiasts. I enjoy sharing insights from my experience in crafting clean, efficient, and secure code. Open to guiding new talent in open-source projects or learning journeys. My opinions here are my own.
-
+Systems & ML Engineer focused on using machine learning to ensure data integrity for U.S. stock market applications, specializing in accurate and reliable financial data. My opinions are my own. Due to limited time and focus, I am not available for mentoring or open-source projects.
 - **Skills:** Machine Learning, Systems Programming
 - **Technologies:** Rust, C, Go, Python, Swift, JAX, Zig
 - **Contact:** Reach me at `ramsyana@mac.com`.
 
 
-### Selected Projects
+### Selected Public Projects
 
 ### RustTensor
 A learning-focused, high-performance tensor computation library built from scratch in Rust, featuring automatic differentiation and CPU/CUDA backends.  
