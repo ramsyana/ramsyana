@@ -1,9 +1,18 @@
 ### Ramsyana 👋
 
-Systems & ML Engineer focused on using machine learning to ensure data integrity for U.S. stock market applications, specializing in accurate and reliable financial data. My opinions are my own. Due to limited time and focus, I am not available for mentoring or open-source projects.
-- **Skills:** Machine Learning, Systems Programming
-- **Technologies:** Rust, C, Go, Python, Swift, JAX, Zig
-- **Contact:** Reach me at `ramsyana@mac.com`.
+Ramsyana 👋
+
+**Systems & ML Engineer | Researching Reacxion Protocol**
+
+My core expertise centers on designing and building high-integrity systems, leveraging both advanced machine learning and robust systems programming.
+
+I am currently engaged in researching and developing the **Reacxion Protocol**, a conceptual blockchain framework for physics-refereed parallel DAO governance. This is an early-stage exploration into enhancing decentralized collaboration, and I am actively seeking like-minded contributors to refine and build out this vision.
+
+My opinions are my own. While my time for new external mentoring or general open-source contributions remains focused, I am deeply committed to the development of Reacxion Protocol.
+
+Skills: Protocol Design, Decentralized Systems, Machine Learning, Systems Programming
+Technologies: Rust, C, Go, Python, Swift, JAX, Zig, Blockchain, Cryptography
+Contact: Reach me at ramsyana@mac.com.
 
 
 ### Selected Public Projects
