@@ -1,7 +1,5 @@
 ### Ramsyana 👋
 
-Ramsyana 👋
-
 **Systems & ML Engineer | Researching Reacxion Protocol**
 
 My core expertise centers on designing and building high-integrity systems, leveraging both advanced machine learning and robust systems programming.
