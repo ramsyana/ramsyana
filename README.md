@@ -9,7 +9,9 @@ I am currently engaged in researching and developing the **Reacxion Protocol**, 
 My opinions are my own. While my time for new external mentoring or general open-source contributions remains focused, I am deeply committed to the development of Reacxion Protocol.
 
 Skills: Protocol Design, Decentralized Systems, Machine Learning, Systems Programming
+
 Technologies: Rust, C, Go, Python, Swift, JAX, Zig, Blockchain, Cryptography
+
 Contact: Reach me at ramsyana@mac.com.
 
 
