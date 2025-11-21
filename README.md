@@ -4,7 +4,7 @@
 
 My core expertise centers on designing and building high-integrity systems, leveraging both advanced machine learning and robust systems programming.
 
-I am currently engaged in researching and developing the **Reacxion Protocol**, a conceptual blockchain framework for physics-refereed parallel DAO governance. This is an early-stage exploration into enhancing decentralized collaboration, and I am actively seeking like-minded contributors to refine and build out this vision.
+I am currently engaged in researching and developing the **[Reacxion Protocol](https://github.com/ramsyana/reacxion)**, a conceptual blockchain framework for physics-refereed parallel DAO governance. This is an early-stage exploration into enhancing decentralized collaboration, and I am actively seeking like-minded contributors to refine and build out this vision.
 
 My opinions are my own. While my time for new external mentoring or general open-source contributions remains focused, I am deeply committed to the development of Reacxion Protocol.
 
@@ -14,8 +14,11 @@ Technologies: Rust, C, Go, Python, Swift, JAX, Zig, Blockchain, Cryptography
 
 Contact: Reach me at ramsyana@mac.com.
 
-
 ### Selected Public Projects
+
+### Reacxion Protocol
+A research agenda for parallel DAO governance using VDFs. Resolves conflicting proposals via deterministic time-ordering and ZK-SNARKs to enable 3-5x faster governance cycles.  
+[Source](https://github.com/ramsyana/reacxion)
 
 ### RustTensor
 A learning-focused, high-performance tensor computation library built from scratch in Rust, featuring automatic differentiation and CPU/CUDA backends.  
@@ -32,10 +35,7 @@ A collection of algorithms and concepts from various academic papers implemented
 | [Derivative Polynomials and Infinite Series for Squigonometric Functions](https://github.com/ramsyana/Math-Papers-with-Code/blob/main/papers/squigonometry/) | Bart S. Van Lith | [2503.19624](https://arxiv.org/abs/2503.19624) | ✅ Complete |
 | [Inverse Source Problems for a Multidimensional Time-Fractional Wave Equation](https://github.com/ramsyana/Math-Papers-with-Code/blob/main/papers/frac-wave-inverse-problems/) | D.K. Durdiev | [2503.17404v1](https://arxiv.org/abs/2503.17404v1) | ✅ Complete |
 
-
-
 *...and more in the [full repository](https://github.com/ramsyana/Math-Papers-with-Code).*
-
 
 - [lorenz-chaos-encrypt](https://github.com/ramsyana/lorenz-chaos-encrypt) - Implementation of "Plain Convolution Encryption".
 - [commit-reveal](https://github.com/ramsyana/commit-reveal) - An implementation of the "Commit-Reveal²" protocol.
@@ -44,6 +44,3 @@ A collection of algorithms and concepts from various academic papers implemented
 ### Enkel-Editor
 A minimalist terminal text editor for IoT devices, built in Zig for Unix-like systems.  
 [Source](https://github.com/ramsyana/Enkel-Editor)
-
-
-
