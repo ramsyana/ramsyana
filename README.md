@@ -12,6 +12,10 @@ Contact: Reach me at ramsyana@mac.com.
 
 ### Selected Public Projects
 
+### Markdown-Direct-Protocol (MDP)
+A high-performance, low-overhead protocol built on QUIC v1 (RFC 9000) for streaming raw UTF-8 markdown from LLMs with minimal CPU overhead. Designed for internal inference infrastructure.  
+[Source](https://github.com/ramsyana/Markdown-Direct-Protocol) | [Specification](https://github.com/ramsyana/Markdown-Direct-Protocol#readme)
+
 ### RustTensor
 A learning-focused, high-performance tensor computation library built from scratch in Rust, featuring automatic differentiation and CPU/CUDA backends.  
 [Source](https://github.com/ramsyana/RustTensor) | [Documentation](https://deepwiki.com/ramsyana/RustTensor)
@@ -36,6 +40,3 @@ A collection of algorithms and concepts from various academic papers implemented
 ### Enkel-Editor
 A minimalist terminal text editor for IoT devices, built in Zig for Unix-like systems.  
 [Source](https://github.com/ramsyana/Enkel-Editor)
-
-
-
